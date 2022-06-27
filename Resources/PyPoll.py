@@ -78,7 +78,7 @@ with open(file_to_load) as election_data:
 
                 # Calculate the percentage of votes.
                 vote_percentage = float(votes) / float(total_votes) * 100
-
+  
                 candidate_results = (
                 f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
