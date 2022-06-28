@@ -17,7 +17,7 @@ For loops and conditional statements with membership and logical operators to fi
 
 Below is the outcome of the election results:
 
-![Election Results Breakdown](Election_Results.png)
+ ![Election Results Breakdown](Election_Results.png)
 
 - The total number of votes cast was 369, 711
 
