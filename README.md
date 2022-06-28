@@ -52,8 +52,4 @@ Below is the outcome of the election results:
 
 ### Election-Audit Summary: 
 
-Efficiently developed code that analyzed election results with a large data set. Code can easily be modified to 
-
-carry out state and federal elections. Data visualization through charts can easily be produced to provide an option
- 
-for people who prefer them.
+Efficiently developed code that analyzed election results with a large data set. Code can easily be modified to carry out state and federal elections. Data visualization through charts can easily be produced to provide an option for people who prefer them.
